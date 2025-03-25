@@ -1,3 +1,5 @@
+В моём проекте нет файла json из-зы его размера, но подойдёт любой файл json с структурой данных как в задании, если он будет лежать в папке src и называться data.json!!!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
